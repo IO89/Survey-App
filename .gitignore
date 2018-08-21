@@ -8,4 +8,4 @@ keys.js
   /.idea
 
 #Package-lock.json
-package-lock.json
+package-lock.json*
