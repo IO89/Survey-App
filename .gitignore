@@ -6,3 +6,6 @@ keys.js
 
 # Idea files
   /.idea
+
+# Package-lock.json
+  package-losck.json
