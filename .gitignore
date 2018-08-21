@@ -1,5 +1,5 @@
 # Node modules
-node_modules
+/node_modules
 
 # Api keys
 keys.js
@@ -7,5 +7,5 @@ keys.js
 # Idea files
   /.idea
 
-# Package-lock.json
-  package-lock.json
+#Package-lock.json
+package-lock.json
